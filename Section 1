@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int  compteur(int c ,char s[5])
+
+    c=0;//Le compteur prend la valeur initiale zero
+
+    char s[5]={'A','Y','T','O','\n'};
+
+        while(if(s=='A'||s=='E'||s=='I'||s=='O'||s=='U'||s=='Y'))
+        {
+
+
+        {
+            c=c+1;//On ajoute plus un au compteur a chacune des voyelles trouver
+
+        }
+
+        }
+        return c;//Le nombre de voyelle a ete retourner
+    return 0;
+} 
+    
